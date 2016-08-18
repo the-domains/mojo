@@ -1,0 +1,14 @@
+layout_spectrum: 0.45845858729444444
+typography_spectrum: 0.09844517218880355
+color:
+  brandStrength: 0.8992353470530361
+  lightness: 0.16123264958150685
+  saturation: 0.12270327308215201
+  rhythmicContrast: 0.2518531456589699
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: mojo
