@@ -6,9 +6,9 @@ color:
   saturation: 0.12270327308215201
   rhythmicContrast: 0.2518531456589699
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FEFEFE'
+    - '#01060C'
+    - '#008900'
+    - '#6381A5'
+    - '#81E8C1'
 name: mojo
