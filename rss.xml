@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mojo]]></title>
-        <description><![CDATA[mojo]]></description>
+        <title><![CDATA[Welcome to the MOJO]]></title>
+        <description><![CDATA[Welcome to the MOJO]]></description>
         <link>https://thegrid.ai/mojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 19:48:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Airlander 10: Maiden flight at last for longest aircraft - BBC News]]></title>
+            <description><![CDATA[<article><h1>Airlander 10: Maiden flight at last for longest aircraft - BBC News</h1><p>The maiden flight of the world's longest aircraft has begun - after a previous attempt was abandoned at the last minute. The Airlander 10 - which is part plane and part airship - took off from Cardington Airfield in Bedfordshire. Its original test flight on Sunday was postponed, but it finally left the ground at 19:40 BST.</p><img src="http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15286/production/_90826668_d8608be7-e109-4a24-898f-179669a7ac85.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-37111527</link>
+            <guid isPermaLink="false">b35f985a-69a0-47da-90f3-4100d5a8417a</guid>
+            <pubDate>Thu, 18 Aug 2016 19:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
             <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
